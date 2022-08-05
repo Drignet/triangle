@@ -1,4 +1,4 @@
-# Cculate Are of a Triangle
+# Cculate Area of a Triangle
 
  ## A project using
 
